@@ -1,2 +1,2 @@
-# Projeto-Simula-o-de-Investimentos
-O Bootcamp Santander Excel com Inteligência Artificial propôs o desafio de desenvolver uma ferramenta prática de simulação de investimentos em fundos imobiliários, a partir dos conhecimentos passados nas aulas do curso. Este primeiro projeto auxilia o usuário a realizar essas simulações de forma prática. 
+O projeto tem como utilidade a visualização prática do quanto o usuário pode investir com seu rendimento, qual o patrimônio acumulado no fim do período pré-determinado, os dividendos mensais, cenários anuais e a sugestão do valor a ser investido nas ações desejadas.  
+	O projeto está aberto à possibilidade de edição em alguns campos para devolver as informações correspondentes aos critérios. Ao clicar no arquivo o usuário será encaminhado para a ferramenta de livre acesso para manuseio.  
